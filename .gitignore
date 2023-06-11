@@ -1,0 +1,4 @@
+*.txt
+!important.txt
+
+# txt dosyalarını gizledik.
